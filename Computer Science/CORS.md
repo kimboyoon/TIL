@@ -5,7 +5,7 @@
 
 ## 출처가 뭔데?
 
-<img width="400" src="././Images/url.png" alt="url">
+<img width="400" src="../Images/url.png" alt="url">
 
 URL 의 구조는 사진처럼,
 Protocol, Host, Path 등으로 이루어져 있다.
