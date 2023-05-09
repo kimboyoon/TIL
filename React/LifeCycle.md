@@ -98,3 +98,5 @@ useEffect(() => {
 > **useEffect**로 전달된 함수는 `컴포넌트렌더링 -> 화면 업데이트 -> useEffect 실행` 순으로 실행되기 때문에 **최소 렌더링 이후에 실행**됩니다!
 
 > 화면을 다 그리기 전에 동기화되어야 하는 경우 `useLayoutEffect()` 를 활용하여 실행시킬 수 있습니다. `렌더링 -> useLayoutEffect -> 화면 업데이트` 순
+
+[리액트의 생명주기와 useEffect Hook](https://velog.io/@sukong/REACT-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0%EC%99%80-useEffect-Hook)
